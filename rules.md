@@ -3,7 +3,7 @@ Version 0.0.2
 
 ##Setup
 
-For each player in turn order: Place 2 troops in an empty territory.
+For each player in turn order: Place 4 troops in an empty territory.
 
 ##General Rules
 
