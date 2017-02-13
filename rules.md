@@ -11,6 +11,14 @@ For each player in turn order: Place 4 troops in an empty territory.
 
 Each troop counter can only move a maximum of 1 territory in a turn.
 
+##Troop Capacity
+
+You may only have as much troops in incoming and on the board as there are physical game peices. (50 peices per player)
+
+##Win Condition
+
+There is no win condition as of yet, simply end the game when all players have been driven off the board or into obscurity by another player. The player with the most bragging rights at the end wins.
+
 ##Turn
 
 1. Place all incoming troops on territories you control.
