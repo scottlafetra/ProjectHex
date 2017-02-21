@@ -11,7 +11,7 @@ Version 0.1.0
 
 ##General Rules
 
-##Drawing Mission Cards
+###Drawing Mission Cards
 
 If you draw a card that you meet the requirement for, discard it and draw another. *The grass is always greener somewhere else.*
 
