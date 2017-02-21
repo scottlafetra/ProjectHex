@@ -11,6 +11,10 @@ Version 0.1.0
 
 ##General Rules
 
+##Drawing Mission Cards
+
+If you draw a card that you meet the requirement for, discard it and draw another. *The grass is always greener somewhere else.*
+
 ###Movement
 
 Each troop counter can only move a maximum of 1 territory in a turn.
@@ -21,13 +25,13 @@ You may only have as much troops in incoming and on the board as there are physi
 
 ##Win Condition
 
-If at any time a player has 4 or more glory, they win the game.
+If at any time a player has 4 or more prestige, they win the game.
 
 ##Turn
 
 1. Place all incoming troops on territories you control.
 2. Make as many attacks as you like.
-3. If you meet the requirement listed any mission cards in your Dossier, you gain the indicated amount of glory, discard the mission card and draw a new one and place it into your Dossier face up. If the mission deck is empty, shuffle the discard pile and place it face down as the mission deck, then draw.
+3. If you meet the requirement listed any mission cards in your Dossier, you gain the indicated amount of prestige, discard the mission card and draw a new one and place it into your Dossier face up. If the mission deck is empty, shuffle the discard pile and place it face down as the mission deck, then draw.
 4. Put aside an amount of incoming troops equal to a half of the territories you control, to a minimum of 2.
 
 
