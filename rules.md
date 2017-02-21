@@ -1,9 +1,13 @@
 #Rules
-Version 0.0.3
+Version 0.1.0
 
 ##Setup
 
-For each player in turn order: Place 4 troops in an empty territory.
+1. Each player draws two card from the Mission Deck. *Players place their mission cards face up in front of them. This area is called the Dossier.*
+2. Players chose one or both of their cards to mulligan and place the mulliganed cards face down in a discard pile.
+3. The discard pile is then shuffled and put on the bottom of the Mission Deck.
+4. Each player draws as many mission cards as they mulliganed.
+5. For each player in turn order: Place 4 troops in an empty territory.
 
 ##General Rules
 
@@ -17,13 +21,15 @@ You may only have as much troops in incoming and on the board as there are physi
 
 ##Win Condition
 
-There is no win condition as of yet, simply end the game when all players have been driven off the board or into obscurity by another player. The player with the most bragging rights at the end wins.
+If at any time a player has 4 or more glory, they win the game.
 
 ##Turn
 
 1. Place all incoming troops on territories you control.
 2. Make as many attacks as you like.
-3. Put aside an amount of incoming troops equal to a half of the territories you control, to a minimum of 2.
+3. If you meet the requirement listed any mission cards in your Dossier, you gain the indicated amount of glory, discard the mission card and draw a new one and place it into your Dossier face up. If the mission deck is empty, shuffle the discard pile and place it face down as the mission deck, then draw.
+4. Put aside an amount of incoming troops equal to a half of the territories you control, to a minimum of 2.
+
 
 ##Attacking
 
