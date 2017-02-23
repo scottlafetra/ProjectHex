@@ -17,7 +17,13 @@ If you draw a card that you meet the requirement for, discard it and draw anothe
 
 ###Movement
 
-Each troop counter can only move a maximum of 1 territory in a turn.
+Each troop counter can only move a maximum of 1 territory in a turn unless otherwise stated.
+
+##Type Modifiers
+
+Assault has a +1 modifier when resolving against a ranged unit.
+Ranged has a +1 modifier when resolving against a mounted unit.
+Mounted has a +1 modifier when resolving against an assault unit.
 
 ##Troop Capacity
 
@@ -40,8 +46,9 @@ If at any time a player has 4 or more prestige, they win the game.
 1. The attacker chooses how many troops from a territory are attacking the chosen adjacent territory.
 2. The attacker creates a dice pool, with one dice for each attacking troop. The defender does the same with one defense die for each defending troop.
 3. Both the attacker and defender roll their dice pools behind their screens, such that they can't see what the other has rolled.
-4. Both the attacker and defender reveal a dice roll at the same time.
-5. The lower dice is put aside in the dead pile, while the other goes to the surviving pile. In case of a tie, the defending die counts as being higher.
-6. Repeat steps 4 - 5 until one player has no more die behind their screen.
-7. Remove a defending troop or attacking troop for defending or attacking die in the dead pile respectively.
-8. If there are no more troops left in the defending territory, move all remaining attacking troops into the now empty territory.
+4. Both the attacker and defender place one of their dice on the unit selection card on the spot coresponding to the unit they wish to enter combat with.
+5. Both the attacker and defender reveal a dice roll at the same time.
+6. The defeder's dice value is decreased by the modifier of the attacking unit and increased by the modifier of the defending unit. This value may never go below 0 or above 9.
+7. The player with the lower number removes their unit from the board. In case of a tie, the defending die counts as being higher.
+8. Repeat steps 4 - 5 until one player has no more die behind their screen.
+9. If there are no more troops left in the defending territory, move all remaining attacking troops into the now empty territory.
