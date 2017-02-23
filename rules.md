@@ -1,5 +1,5 @@
 #Rules
-Version 0.1.0
+Version 0.1.1
 
 ##Setup
 
@@ -22,23 +22,31 @@ Each troop counter can only move a maximum of 1 territory in a turn unless other
 ##Type Modifiers
 
 Assault has a +1 modifier when resolving against a ranged unit.
+
 Ranged has a +1 modifier when resolving against a mounted unit.
+
 Mounted has a +1 modifier when resolving against an assault unit.
 
 ##Troop Capacity
 
 You may only have as much troops in incoming and on the board as there are physical game peices. (50 peices per player)
 
+##Abandonment
+
+Unless otherwise stated, no troop can abandon a territory, that is, leave a territory without at least one troop to gaurd it.
+
 ##Win Condition
 
-If at any time a player has 4 or more prestige, they win the game.
+If at any time a player has 3 or more prestige, they win the game.
 
 ##Turn
 
 1. Place all incoming troops on territories you control.
+2. Move as many troops as you like as long as they don't go farther than they can move, enter enemy territory, or break the abandonment rule.
 2. Make as many attacks as you like.
 3. If you meet the requirement listed any mission cards in your Dossier, you gain the indicated amount of prestige, discard the mission card and draw a new one and place it into your Dossier face up. If the mission deck is empty, shuffle the discard pile and place it face down as the mission deck, then draw.
 4. Put aside an amount of incoming troops equal to a half of the territories you control, to a minimum of 2.
+5. If you wish, discard one of you mission cards from your dossier and draw a new one.
 
 
 ##Attacking
