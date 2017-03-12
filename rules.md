@@ -1,5 +1,5 @@
 #Rules
-Version 0.1.1
+Version 0.1.2
 
 ##Setup
 
@@ -21,11 +21,11 @@ Each troop counter can only move a maximum of 1 territory in a turn unless other
 
 ##Type Modifiers
 
-Assault has a +1 modifier when resolving against a ranged unit.
+Assault has a +1 modifier when resolving against a mounted unit.
 
-Ranged has a +1 modifier when resolving against a mounted unit.
+Mounted has a +1 modifier when resolving against a ranged unit.
 
-Mounted has a +1 modifier when resolving against an assault unit.
+Ranged has a +1 modifier when resolving against an assault unit.
 
 ##Troop Capacity
 
