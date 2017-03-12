@@ -45,7 +45,7 @@ If at any time a player has 3 or more prestige, they win the game.
 2. Move as many troops as you like as long as they don't go farther than they can move, enter enemy territory, or break the abandonment rule.
 2. Make as many attacks as you like.
 3. If you meet the requirement listed any mission cards in your Dossier, you gain the indicated amount of prestige, discard the mission card and draw a new one and place it into your Dossier face up. If the mission deck is empty, shuffle the discard pile and place it face down as the mission deck, then draw.
-4. Put aside an amount of incoming troops equal to a half of the territories you control, to a minimum of 2.
+4. Put aside an amount of incoming troops equal to a half of the territories you control, to a minimum of 2. These troops may be of any unit for which your faction has a unit card for.
 5. If you wish, discard one of you mission cards from your dossier and draw a new one.
 
 
