@@ -60,3 +60,91 @@ If at any time a player has 3 or more prestige, they win the game.
 7. The player with the lower number removes their unit from the board. In case of a tie, the defending die counts as being higher.
 8. Repeat steps 4 - 5 until one player has no more die behind their screen.
 9. If there are no more troops left in the defending territory, move all remaining attacking troops into the now empty territory.
+
+#Playtest rules
+
+To simulate a game where each faction has advanced through their tech tree, after everyone chooses their factions, have everyone choose a total of two unit cards and upgrade cards for their faction to use. 
+
+#Card Descriptions
+
+##Faction Cards
+
+Each faction has a passive ability in addition to a set of upgrade and unit cards that they can use during the game. ( See playtest rules above for how this works for now )
+
+###The Imperials
+
+<img alt="The Imperials" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Faction%20Cards/Card%20Images/The%20Imperials.png" width="200px" />
+
+The Imperials produce one troop in the capital at the end of your turn for each reigon controlled. The player may decide which units he places. Note that these units do not go into incoming but are place directly on the territory.
+
+###The Islanders
+
+<img alt="The Islanders" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Faction%20Cards/Card%20Images/The%20Islanders.png" width="200px" />
+
+The Islanders get a +1 modifier when attacking over a sea route. A sea route is defined as a line connecting two territories.
+
+###The New Order
+
+<img alt="The New Order" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Faction%20Cards/Card%20Images/The%20New%20Order.png" width="200px" />
+
+The New Order round up instead of down when calculating how many troops are earned.
+
+###The Nomads
+
+<img alt="The Nomads" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Faction%20Cards/Card%20Images/The%20Nomads.png" width="200px" />
+
+The Nomads ignore the abandonment rule.
+
+##Mission Cards
+
+###A Quick Victory
+
+<img alt="A Quick Victory" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/A%20quick%20victory.png" width="200px" />
+
+A player will earn this card if they take control of an entire region in one turn. To satisfy this condition, a player must control all the territories in a region that he did not control any territories in at the beginning of their turn.
+
+###Colonial Ambition
+
+<img alt="Colonial Ambition" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Colonial%20Ambition.png" width="200px" />
+
+A player will earn this card if they control at least one territory in each region at the end of their turn.
+
+###Domination
+
+<img alt="Domination" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Domination.png" width="200px" />
+
+A player will earn this card if they control four or morwe regions at the end of their turn.
+
+###Eyes On The Horizon
+
+<img alt="Eyes On The Horizon" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Colonial%20Ambition.png" width="200px" />
+
+A player will earn this card if they control at least 3 territories which each contain 3 or more troops.
+
+###Global Empire
+
+<img alt="Global Empire" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Global%20Empire.png" width="200px" />
+
+A player will earn this card if they control two regions that are further than two connections away from eachother ( Measure by the shortest path ).
+
+###Manifest Destiny
+
+<img alt="Manifest Destiny r1" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Manifest%20Destiny%20r1.png" width="200px" />
+<img alt="Manifest Destiny r2" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Manifest%20Destiny%20r2.png" width="200px" />
+<img alt="Manifest Destiny r3" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Manifest%20Destiny%20r3.png" width="200px" />
+<img alt="Manifest Destiny r4" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Manifest%20Destiny%20r4.png" width="200px" />
+<img alt="Manifest Destiny r5" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Manifest%20Destiny%20r5.png" width="200px" />
+<img alt="Manifest Destiny r6" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Manifest%20Destiny%20r6.png" width="200px" />
+
+A player will earn a manifest destiny card if they control all the territories in the region pictured on the card.
+
+###Rivalry
+
+<img alt="Rivalry-Blue" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Rivalry-blue.png" width="200px" />
+<img alt="Rivalry-Blue" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Rivalry-green.png" width="200px" />
+<img alt="Rivalry-Blue" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Rivalry-orange.png" width="200px" />
+<img alt="Rivalry-Blue" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Rivalry-purple.png" width="200px" />
+<img alt="Rivalry-Blue" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Rivalry-red.png" width="200px" />
+<img alt="Rivalry-Blue" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Rivalry-yellow.png" width="200px" />
+
+A player will earn a manifest destiny card if they control the capital of the pictured faction. Each faction is represented by the color of the pieces it is playing with. The shape of the symbols doesn't matter at this stage in development.
