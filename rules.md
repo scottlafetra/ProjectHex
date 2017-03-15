@@ -1,5 +1,5 @@
 #Rules
-Version 0.1.2
+Version 0.1.3
 
 ##Setup
 
@@ -7,7 +7,7 @@ Version 0.1.2
 2. Players chose one or both of their cards to mulligan and place the mulliganed cards face down in a discard pile.
 3. The discard pile is then shuffled and put on the bottom of the Mission Deck.
 4. Each player draws as many mission cards as they mulliganed.
-5. For each player in turn order: Place 4 troops in an empty territory.
+5. For each player in turn order: Place 4 troops and your capital in an teritorry that is at least two spaces away from any teritorry with units on it.
 
 ##General Rules
 
@@ -35,6 +35,10 @@ You may only have as much troops in incoming and on the board as there are physi
 
 Unless otherwise stated, no troop can abandon a territory, that is, leave a territory without at least one troop to gaurd it.
 
+##Resurgance
+
+If a player ever has no controlled territory at the beginning of their turn, they may place their incoming troops on any one empty teritorry.
+
 ##Win Condition
 
 If at any time a player has 3 or more prestige, they win the game.
@@ -56,7 +60,7 @@ If at any time a player has 3 or more prestige, they win the game.
 3. Both the attacker and defender roll their dice pools behind their screens, such that they can't see what the other has rolled.
 4. Both the attacker and defender place one of their dice on the unit selection card on the spot coresponding to the unit they wish to enter combat with.
 5. Both the attacker and defender reveal a dice roll at the same time.
-6. The defeder's dice value is decreased by the modifier of the attacking unit and increased by the modifier of the defending unit. This value may never go below 0 or above 9.
+6. Each player's die roll gets a bonus equal to the modifier of their attacking troop plus any bonus they get from unit type advantage. A roll of a 9 always counts as being highest regardless of modifiers and a roll of 0 always counts as being lower regardless of modifiers. 
 7. The player with the lower number removes their unit from the board. In case of a tie, the defending die counts as being higher.
 8. Repeat steps 4 - 5 until one player has no more die behind their screen.
 9. If there are no more troops left in the defending territory, move all remaining attacking troops into the now empty territory.
@@ -87,13 +91,25 @@ The Islanders get a +1 modifier when attacking over a sea route. A sea route is 
 
 <img alt="The New Order" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Faction%20Cards/Card%20Images/The%20New%20Order.png" width="200px" />
 
-The New Order round up instead of down when calculating how many troops are earned.
+The New Order recives one extra incoming troop at the end of each turn.
 
 ###The Nomads
 
 <img alt="The Nomads" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Faction%20Cards/Card%20Images/The%20Nomads.png" width="200px" />
 
 The Nomads ignore the abandonment rule.
+
+###The Ascendancy
+
+<img alt="The Ascendancy" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Faction%20Cards/Card%20Images/The%20Ascendancy.png" width="200px" />
+
+The Ascendancy may move their units an additional time if it is through controled territory.
+
+###The Philosophers
+
+<img alt="The Philosophers" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Faction%20Cards/Card%20Images/The%20Philosophers.png" width="200px" />
+
+May choose to discard both their mission cards in their discard step.
 
 ##Mission Cards
 
@@ -113,7 +129,7 @@ A player will earn this card if they control at least one territory in each regi
 
 <img alt="Domination" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Domination.png" width="200px" />
 
-A player will earn this card if they control four or morwe regions at the end of their turn.
+A player will earn this card if they control four or morwe regions at the end of their turn. This must be done at the same time
 
 ###Eyes On The Horizon
 
