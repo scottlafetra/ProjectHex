@@ -131,7 +131,7 @@ A player will earn this card if they control at least one territory in each regi
 
 A player will earn this card if they control four or morwe regions at the end of their turn. This must be done at the same time
 
-###Eyes On The Horizon
+### Eyes On The Horizon
 
 <img alt="Eyes On The Horizon" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Colonial%20Ambition.png" width="200px" />
 
@@ -145,22 +145,12 @@ A player will earn this card if they control two regions that are further than t
 
 ### Manifest Destiny
 
-<img alt="Manifest Destiny r1" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Manifest%20Destiny%20r1.png" width="200px" />
-<img alt="Manifest Destiny r2" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Manifest%20Destiny%20r2.png" width="200px" />
-<img alt="Manifest Destiny r3" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Manifest%20Destiny%20r3.png" width="200px" />
-<img alt="Manifest Destiny r4" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Manifest%20Destiny%20r4.png" width="200px" />
-<img alt="Manifest Destiny r5" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Manifest%20Destiny%20r5.png" width="200px" />
-<img alt="Manifest Destiny r6" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Manifest%20Destiny%20r6.png" width="200px" />
+<img alt="Manifest Destiny r1" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Manifest%20Destiny%20r1.png" width="200px" /><img alt="Manifest Destiny r2" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Manifest%20Destiny%20r2.png" width="200px" /><img alt="Manifest Destiny r3" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Manifest%20Destiny%20r3.png" width="200px" /><img alt="Manifest Destiny r4" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Manifest%20Destiny%20r4.png" width="200px" /><img alt="Manifest Destiny r5" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Manifest%20Destiny%20r5.png" width="200px" /><img alt="Manifest Destiny r6" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Manifest%20Destiny%20r6.png" width="200px" />
 
 A player will earn a manifest destiny card if they control all the territories in the region pictured on the card.
 
 ### Rivalry
 
-<img alt="Rivalry-Blue" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Rivalry-blue.png" width="200px" />
-<img alt="Rivalry-Blue" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Rivalry-green.png" width="200px" />
-<img alt="Rivalry-Blue" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Rivalry-orange.png" width="200px" />
-<img alt="Rivalry-Blue" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Rivalry-purple.png" width="200px" />
-<img alt="Rivalry-Blue" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Rivalry-red.png" width="200px" />
-<img alt="Rivalry-Blue" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Rivalry-yellow.png" width="200px" />
+<img alt="Rivalry-Blue" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Rivalry-blue.png" width="200px" /><img alt="Rivalry-Blue" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Rivalry-green.png" width="200px" /><img alt="Rivalry-Blue" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Rivalry-orange.png" width="200px" /><img alt="Rivalry-Blue" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Rivalry-purple.png" width="200px" /><img alt="Rivalry-Blue" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Rivalry-red.png" width="200px" /><img alt="Rivalry-Blue" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Rivalry-yellow.png" width="200px" />
 
 A player will earn a manifest destiny card if they control the capital of the pictured faction. Each faction is represented by the color of the pieces it is playing with. The shape of the symbols doesn't matter at this stage in development.
