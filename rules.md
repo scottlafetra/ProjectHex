@@ -103,7 +103,7 @@ The Nomads ignore the abandonment rule.
 
 <img alt="The Ascendancy" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Faction%20Cards/Card%20Images/The%20Ascendancy.png" width="200px" />
 
-The Ascendancy may move their units an additional time if it is through controled territory.
+The Ascendancy may move their units an additional time if it is through territory they control at the beginning of their turn.
 
 ### The Philosophers
 
