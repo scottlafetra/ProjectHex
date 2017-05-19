@@ -1,5 +1,5 @@
 # Rules
-Version 0.1.3
+Version 0.2.0
 
 ## Setup
 
@@ -45,18 +45,19 @@ If at any time a player has 3 or more prestige, they win the game.
 
 ## Turn
 
-1. Place all incoming troops on territories you control.
-2. Move as many troops as you like as long as they don't go farther than they can move, enter enemy territory, or break the abandonment rule.
-2. Make as many attacks as you like.
-3. If you meet the requirement listed any mission cards in your Dossier, you gain the indicated amount of prestige, discard the mission card and draw a new one and place it into your Dossier face up. If the mission deck is empty, shuffle the discard pile and place it face down as the mission deck, then draw.
-4. Put aside an amount of incoming troops equal to a half of the territories you control, to a minimum of 2. These troops may be of any unit for which your faction has a unit card for.
-5. If you wish, discard one of you mission cards from your dossier and draw a new one.
+1. Buy as many troops as you wish and place them on territories you control. Each unit costs 1 gold unless otherwise stated. These troops may be of any unit for which your faction has a unit card for.
+2. Buy as many fortresses as you want and put each on a territory you control that does not have a capital on it. How much each fortress costs depends on how far you place it from your capital.
+3. Move as many troops as you like as long as they don't go farther than they can move, enter enemy territory, or break the abandonment rule.
+4. Make as many attacks as you like.
+5. If you meet the requirement listed any mission cards in your Dossier, you gain the indicated amount of prestige, discard the mission card and draw a new one and place it into your Dossier face up. If the mission deck is empty, shuffle the discard pile and place it face down as the mission deck, then draw.
+6. Collect an amount of coins equal to a half of the territories you control, to a minimum of 2. 
+7. If you wish, discard one of you mission cards from your dossier and draw a new one.
 
 
 ## Attacking
 
 1. The attacker chooses how many troops from a territory are attacking the chosen adjacent territory.
-2. The attacker creates a dice pool, with one dice for each attacking troop. The defender does the same with one defense die for each defending troop.
+2. The attacker creates a dice pool, with one dice for each attacking troop. The defender does the same with one defense die for each defending troop, plus two if there is a fortress in the defending territory.
 3. Both the attacker and defender roll their dice pools behind their screens, such that they can't see what the other has rolled.
 4. Both the attacker and defender place one of their dice on the unit selection card on the spot coresponding to the unit they wish to enter combat with.
 5. Both the attacker and defender reveal a dice roll at the same time.
@@ -110,6 +111,12 @@ The Ascendancy may move their units an additional time if it is through territor
 <img alt="The Philosophers" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Faction%20Cards/Card%20Images/The%20Philosophers.png" width="200px" />
 
 May choose to discard both their mission cards in their discard step.
+
+### The Architects
+
+<img alt="The Architects" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Faction%20Cards/Card%20Images/The%20Architects.png" width="200px" />
+
+Places a fortress in their starting territory during setup.
 
 ## Mission Cards
 
