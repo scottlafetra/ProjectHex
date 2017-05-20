@@ -150,6 +150,12 @@ A player will earn this card if they control at least 3 territories which each c
 
 A player will earn this card if they control two regions that are further than two connections away from eachother ( Measure by the shortest path ).
 
+### Control The Seas
+
+<img alt="Control the Seas" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Control%20The%20Seas.png" width="200px" />
+
+A player will earn this card if they control all territories only connected to other territories by sea routes.
+
 ### Man the Walls
 
 <img alt="Man the Walls" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Man%20The%20Walls.png" width="200px" />
