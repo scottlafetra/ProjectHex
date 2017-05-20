@@ -150,6 +150,18 @@ A player will earn this card if they control at least 3 territories which each c
 
 A player will earn this card if they control two regions that are further than two connections away from eachother ( Measure by the shortest path ).
 
+### Man the Walls
+
+<img alt="Man the Walls" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Man%20The%20Walls.png" width="200px" />
+
+A player will earn this card if they control two territoriesthat contain fortresses.
+
+### A Great Victory
+
+<img alt="Man the Walls" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/A%20Great%20Victory.png" width="200px" />
+
+A player will earn this card defeat at least 10 units in one turn.
+
 ### Manifest Destiny
 
 <img alt="Manifest Destiny r1" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Manifest%20Destiny%20r1.png" width="200px" /><img alt="Manifest Destiny r2" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Manifest%20Destiny%20r2.png" width="200px" /><img alt="Manifest Destiny r3" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Manifest%20Destiny%20r3.png" width="200px" /><img alt="Manifest Destiny r4" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Manifest%20Destiny%20r4.png" width="200px" /><img alt="Manifest Destiny r5" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Manifest%20Destiny%20r5.png" width="200px" /><img alt="Manifest Destiny r6" src="https://raw.githubusercontent.com/scottlafetra/ProjectHex/master/Mission%20Cards/Card%20Images/Manifest%20Destiny%20r6.png" width="200px" />
