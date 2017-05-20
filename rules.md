@@ -1,5 +1,5 @@
 # Rules
-Version 0.2.0
+Version 0.2.1
 
 ## Setup
 
@@ -61,7 +61,7 @@ If at any time a player has 3 or more prestige, they win the game.
 3. Both the attacker and defender roll their dice pools behind their screens, such that they can't see what the other has rolled.
 4. Both the attacker and defender place one of their dice on the unit selection card on the spot coresponding to the unit they wish to enter combat with.
 5. Both the attacker and defender reveal a dice roll at the same time.
-6. Each player's die roll gets a bonus equal to the modifier of their attacking troop plus any bonus they get from unit type advantage. A roll of a 9 always counts as being highest regardless of modifiers and a roll of 0 always counts as being lower regardless of modifiers. 
+6. Each player's die roll gets a bonus equal to the modifier of their attacking troop plus any bonus they get from unit type advantage. 
 7. The player with the lower number removes their unit from the board. In case of a tie, the defending die counts as being higher.
 8. Repeat steps 4 - 5 until one player has no more die behind their screen.
 9. If there are no more troops left in the defending territory, move all remaining attacking troops into the now empty territory.
