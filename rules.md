@@ -1,5 +1,5 @@
 # Rules
-Version 0.2.1
+Version 0.3.0.draft
 
 ## Setup
 
@@ -7,7 +7,7 @@ Version 0.2.1
 2. Players chose one or both of their cards to mulligan and place the mulliganed cards face down in a discard pile.
 3. The discard pile is then shuffled and put on the bottom of the Mission Deck.
 4. Each player draws as many mission cards as they mulliganed.
-5. For each player in turn order: Place 4 troops and your capital in an teritorry that is at least two spaces away from any teritorry with units on it.
+5. For each player in turn order: Place one of their control markers in an teritorry that is at least two spaces away from any teritorry with units on it.
 
 ## General Rules
 
@@ -15,29 +15,13 @@ Version 0.2.1
 
 If you draw a card that you meet the requirement for, discard it and draw another. *The grass is always greener somewhere else.*
 
-### Movement
+## Control Markers
 
-Each troop counter can only move a maximum of 1 territory in a turn unless otherwise stated.
-
-## Type Modifiers
-
-Assault has a +2 modifier when resolving against a mounted unit.
-
-Mounted has a +2 modifier when resolving against a ranged unit.
-
-Ranged has a +2 modifier when resolving against an assault unit.
-
-## Troop Capacity
-
-You may only have as much troops in incoming and on the board as there are physical game peices. (50 peices per player)
-
-## Abandonment
-
-Unless otherwise stated, no troop can abandon a territory, that is, leave a territory without at least one troop to gaurd it.
+You control a territory if you have a control marker in it. Only one control marker may ever be in a territory at one time.
 
 ## Resurgance
 
-If a player ever has no controlled territory at the beginning of their turn, they may place their incoming troops on any one empty teritorry.
+If a player ever has no controlled territory at the beginning of their turn, they may place one of their control markers on any uncontrolled teritorry. If there are uncontrolled territories on the map, the resurging player may pick any territory and exchange the control marker on it with one of their own. 
 
 ## Win Condition
 
@@ -45,36 +29,31 @@ If at any time a player has 3 or more prestige, they win the game.
 
 ## Turn
 
-1. Buy as many troops as you wish and place them on territories you control. Each unit costs 1 gold unless otherwise stated. These troops may be of any unit for which your faction has a unit card for.
+1. Remove all non-royal cards from your discard and put them in your hand.
 2. Buy as many fortresses as you want and put each on a territory you control that does not have a capital on it. How much each fortress costs depends on how far you place it from your capital.
-3. Move as many troops as you like as long as they don't go farther than they can move, enter enemy territory, or break the abandonment rule.
 4. Make as many attacks as you like.
 5. If you meet the requirement listed any mission cards in your Dossier, you gain the indicated amount of prestige, discard the mission card and draw a new one and place it into your Dossier face up. If the mission deck is empty, shuffle the discard pile and place it face down as the mission deck, then draw.
-6. Collect an amount of coins equal to a half of the territories you control, to a minimum of 2. 
 7. If you wish, discard one of you mission cards from your dossier and draw a new one.
 
 
 ## Attacking
 
-1. The attacker chooses how many troops from a territory are attacking the chosen adjacent territory.
-2. The attacker creates a dice pool, with one dice for each attacking troop. The defender does the same with one defense die for each defending troop, plus two if there is a fortress in the defending territory.
-3. Both the attacker and defender roll their dice pools behind their screens, such that they can't see what the other has rolled.
-4. Both the attacker and defender place one of their dice on the unit selection card on the spot coresponding to the unit they wish to enter combat with.
-5. Both the attacker and defender reveal a dice roll at the same time.
-6. Each player's die roll gets a bonus equal to the modifier of their attacking troop plus any bonus they get from unit type advantage. 
-7. The player with the lower number removes their unit from the board. In case of a tie, the defending die counts as being higher.
-8. Repeat steps 4 - 5 until one player has no more die behind their screen.
-9. If there are no more troops left in the defending territory, move all remaining attacking troops into the now empty territory.
+1. The attacker chooses a territory next to one they control and declares that they are attacking it.
+2. If the territory is uncontrolled, the attack ends the attacker places one of their control tokens on the territory, and discards one card of their choice.
+3. Both the attacking player and the defending player play a card face down from their hand.
+4. Both players turn over the cards they played.
+5. The if the attacker's revealed card has a higher value, they successfully take the attacked territory and replace the defender's control token with one of their own.
+6. Both players place their revealed cards in their respective discard piles.
 
-# Playtest rules
+# Card Values
 
-To simulate a game where each faction has advanced through their tech tree, after everyone chooses their factions, have everyone choose a total of two unit cards and upgrade cards for their faction to use. 
+<Continue Here>
 
 # Card Descriptions
 
 ## Faction Cards
 
-Each faction has a passive ability in addition to a set of upgrade and unit cards that they can use during the game. ( See playtest rules above for how this works for now )
+Each faction has a passive ability.
 
 ### The Imperials
 
