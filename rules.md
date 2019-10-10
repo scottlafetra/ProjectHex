@@ -47,7 +47,21 @@ If at any time a player has 3 or more prestige, they win the game.
 
 # Card Values
 
-<Continue Here>
+## Basic Cards
+
+Basic Cards (2-10) all have their value listed on their face.
+
+## Royal Cards
+
+Royal Cards (Ace, King, Queen, Jack) all have diffrent methods for determining their value, listed below. Royal cards can only be used once per game, and are not removed from a player's discard pile at the begining of their turn. 
+
+**Ace:** Has a value of 3, and removes the card the other player revealed from the from the game.
+
+**King:** 
+
+**Queen:** When this card is revealed, the player that played it imediantly swaps it with one of the cards in their discard pile. Play continues as if the swapped card was just revealed. (This will activate any "when this card is revealed" effects on the swapped card.)
+
+**Jack:** When this card is revealed, the player that plays it discards a number of cards. This card's value is the number of cards discarded that way. If both players played a jack, then starting with the attacker, both players take turns either discarding a card or passing. The first player to pass counts as having the lower value card, then play resumes as normal.
 
 # Card Descriptions
 
